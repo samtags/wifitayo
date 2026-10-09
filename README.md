@@ -8,18 +8,31 @@ WiFiTayo is a plug-and-play platform for running a **paid WiFi hotspot business*
 
 ---
 
+## Public surfaces
+
+| Surface            | URL                                                 | Purpose                                     |
+| ------------------ | --------------------------------------------------- | ------------------------------------------- |
+| **Shop**           | [shop.wifitayo.com](https://shop.wifitayo.com)      | Buy routers, packages, and accessories      |
+| **Portal**         | [tara.wifitayo.com](https://tara.wifitayo.com)      | Hosted captive portal experience for guests |
+| **Merchant admin** | [my.wifitayo.com](https://my.wifitayo.com)          | Operator dashboard (sign-in required)       |
+| **Support**        | [support@wifitayo.com](mailto:support@wifitayo.com) | Product and order help                      |
+
+Internal operations and router control tooling are not public; access is limited to the WiFiTayo team and authorized partners.
+
+---
+
 ## What is WiFiTayo?
 
 WiFiTayo helps small businesses and entrepreneurs turn an existing internet connection into **metered WiFi** that customers can pay for by the session.
 
 At a high level, the system includes:
 
-- **Captive portal** — Mobile-friendly flow for guests: connect, pause, and load more time (no manual username/password typing for end users).
-- **Payments** — QR and e-wallet style top-ups integrated into the portal experience.
-- **Merchant tools** — Dashboard for rates, load requests, transactions, and day-to-day store operations.
-- **Shop** — Routers, extenders, signage, and starter packages for new operators.
+- **Captive portal**: Mobile-friendly flow for guests: connect, pause, and load more time (no manual username/password typing for end users).
+- **Payments**: QR and e-wallet style top-ups integrated into the portal experience.
+- **Merchant tools**: Dashboard for rates, load requests, transactions, and day-to-day store operations.
+- **Shop**: Routers, extenders, signage, and starter packages for new operators.
 
-The goal is to make **running a WiFi business beginner-friendly for non-technical people**—plug-and-play gear, plain-language operations, and support when you need it, so you can earn from WiFi without becoming a network engineer.
+The goal is to make running a WiFi business beginner-friendly for non-technical people, plug-and-play gear, plain-language operations, and support when you need it, so you can earn from WiFi without becoming a network engineer.
 
 ---
 
@@ -55,22 +68,9 @@ Day-to-day flow for **your customers** on your paid WiFi:
 
 ## Getting started as an operator
 
-1. **Gear up** — Choose a router, kit, or package from the [shop](https://shop.wifitayo.com).
-2. **Plug in** — Connect to your existing internet; equipment is built for WiFiTayo.
-3. **Go live** — Guests use the flow above; you manage rates, loads, and reports from [my.wifitayo.com](https://my.wifitayo.com).
-
----
-
-## Public surfaces
-
-| Surface            | URL                                                 | Purpose                                     |
-| ------------------ | --------------------------------------------------- | ------------------------------------------- |
-| **Shop**           | [shop.wifitayo.com](https://shop.wifitayo.com)      | Buy routers, packages, and accessories      |
-| **Portal**         | [tara.wifitayo.com](https://tara.wifitayo.com)      | Hosted captive portal experience for guests |
-| **Merchant admin** | [my.wifitayo.com](https://my.wifitayo.com)          | Operator dashboard (sign-in required)       |
-| **Support**        | [support@wifitayo.com](mailto:support@wifitayo.com) | Product and order help                      |
-
-Internal operations and router control tooling are not public; access is limited to the WiFiTayo team and authorized partners.
+1. **Gear up**: Choose a router, kit, or package from the [shop](https://shop.wifitayo.com).
+2. **Plug in**: Connect to your existing internet; equipment is built for WiFiTayo.
+3. **Go live**: Guests use the flow above; you manage rates, loads, and reports from [my.wifitayo.com](https://my.wifitayo.com).
 
 ---
 
@@ -116,7 +116,7 @@ Guides for operators and customers (mostly in Filipino):
 
 Built and maintained by **[Sam Tagalog](https://github.com/samtagalog)**. Software engineer focused on practical, user-facing systems (mobile and web).
 
-- Personal site: [https://samtagalog.info](https://samtagalog.info)  
+- Personal site: [https://samtagalog.info](https://samtagalog.info)
 - Contact: [mail.samtagalog@gmail.com](mailto:mail.samtagalog@gmail.com)
 
 ---
